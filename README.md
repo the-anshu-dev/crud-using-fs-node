@@ -7,6 +7,8 @@ Terminal : <code>  node index.js </code>
 
 <ul>
   <li>Read</li>
+  ![image](https://github.com/the-anshu-dev/crud-using-fs-node/assets/97455210/45aa2fae-4db3-4836-b0fd-0e8efd96989a)
+
   <li>Insert</li>
   <li>Select</li>
   <li>Delete</li>
