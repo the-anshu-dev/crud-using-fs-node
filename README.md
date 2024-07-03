@@ -1,3 +1,3 @@
 <h1>To run this code : </h1>
 
-<code>  node index.js </code>
+Terminal : <code>  node index.js </code>
