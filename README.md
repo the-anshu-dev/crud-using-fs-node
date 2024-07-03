@@ -24,3 +24,6 @@ Terminal : <code>  node index.js </code>
 
 
 </ul>
+
+
+<h2>Please star the repo and follow my github page</h2>
